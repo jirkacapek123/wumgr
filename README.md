@@ -8,7 +8,9 @@ It allows the user fine control of updates on modern (Windows 10) operating syst
 This tool is inspired by the [Windows Update Mini Tool (WUMT)](https://www.majorgeeks.com/files/details/windows_update_minitool.html), however in comparison to WUMT it is written in pure .NET instead of C/C++, and it is open source. 
 
 
- here is [my patreon page](https://www.patreon.com/): https://www.patreon.com/
+ <!---
+ here is [my patreon page](https://www.patreon.com/)
+ -->
 
 Icons provided by: 
 *  ()
